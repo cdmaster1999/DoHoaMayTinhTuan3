@@ -1,0 +1,8 @@
+﻿  snake.cpp
+  global.cpp
+  game.cpp
+c:\users\administrator\desktop\dhmt\lab03\lab03_bt2\game.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  entities.cpp
+  Generating Code...
+  Lab03_BT2.vcxproj -> C:\Users\Administrator\Desktop\DHMT\Lab03\Debug\Lab03_BT2.exe
+  Lab03_BT2.vcxproj -> C:\Users\Administrator\Desktop\DHMT\Lab03\Debug\Lab03_BT2.pdb (Partial PDB)
